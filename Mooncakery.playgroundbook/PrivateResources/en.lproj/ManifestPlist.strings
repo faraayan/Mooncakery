@@ -1,0 +1,28 @@
+/*
+See LICENSE folder for this template’s licensing information.
+
+Abstract:
+Contains English localizations of values in Manifest.plist files in the playground book.
+*/
+
+/* The localized name of the playground book. */
+"PlaygroundBookName" = "Mooncakery";
+
+/* The localized name of the first chapter in the playground book. */
+"ChapterOneName" = "A full-moon baking experience";
+
+/* The localized name of the first page in the first chapter in the playground book. */
+
+"Hello" = "Welcome to Mooncakery";
+
+"1. Preparing the Dough" = "1. Craft the Dough";
+
+"2. Choosing the Filling" = "2. Prepare the Filling";
+
+"3. Assemble the Mooncake" = "3. Wrap it Together";
+
+"4. Shape the Mooncake" = "4. Shape the Mooncake";
+
+"5. Bake your mooncake" = "5. Bake your Mooncake";
+
+"Cherish and Celebrate" = "Cherish and Celebrate";
