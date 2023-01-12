@@ -7,5 +7,10 @@ Mooncakery teaches you how to create a mooncake and their significance in Chines
 
 ![Mooncakery Demo](Mooncakery.playgroundbook/Images/mooncakery2.png)
 
+## Try it yourself
+Here's how you can play with Mooncakery:
+1. Download [Swift Playgrounds](https://www.apple.com/swift/playgrounds/) on your Mac or iPad
+2. Download and open the Mooncakery.zip file onto your device. This will prompt the Swift Playgrounds app to begin Mooncakery.
+
 ## In action
 Watch a [demo of Mooncakery](https://youtu.be/22fNhZOYoHc)!
